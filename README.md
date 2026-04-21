@@ -1,4 +1,4 @@
-#  Forest Fire Prediction App
+#  Forest fire weather index web app
 
 A simple Streamlit web app that predicts whether a forest fire will occur based on input features.
 
